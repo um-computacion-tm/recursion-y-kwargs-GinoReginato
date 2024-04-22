@@ -5,3 +5,7 @@ Este código implementa una función llamada `buscar_datos(*args, **kwargs)` en 
 La función itera sobre cada uno de los datos proporcionados en `args` y verifica si están presentes en la base de datos. Si un dato está presente en la base de datos, se agrega a una lista llamada `datos_encontrados`. Si un dato no está presente en la base de datos, se imprime un mensaje indicando que no se encontró el dato.
 
 Al finalizar la búsqueda, se imprime una lista de los datos encontrados en la base de datos.
+
+#   AUTOR
+
+GINO REGINATO
